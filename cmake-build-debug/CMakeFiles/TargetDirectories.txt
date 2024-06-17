@@ -1,3 +1,3 @@
-/Users/king/programming/c/linkedList/cmake-build-debug/CMakeFiles/linkedList.dir
-/Users/king/programming/c/linkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/king/programming/c/linkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/programming/c/LinkedList/cmake-build-debug/CMakeFiles/linkedList.dir
+C:/Users/user/programming/c/LinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/programming/c/LinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
